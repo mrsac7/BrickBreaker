@@ -81,7 +81,6 @@ public class Paddle : MonoBehaviour {
                 yield return null;
             }
         }
-
         this.PaddleIsTransforming = false;
     }
 
